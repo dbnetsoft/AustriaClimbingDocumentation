@@ -1,0 +1,5 @@
+# E-Mails (Adminoberfläche)
+
+Im Register „E-Mails“ kann ein E-Mail an alle registrierten Athlet\*innen geschickt werden.
+
+Zum Beispiel im Falle von Zeitplanänderungen, ist dies die schnellste Möglichkeit, mit den Teilnehmer\*innen zu kommunizieren. Die Mail Adressen aller registrierten Athlet\*innen sind automatisch schon in der Empfängerliste! Nur zusätzlich gewünschte Empfänger\*innen müssen noch im Feld „Empfänger“ angegeben werden. Die Nachricht wird vom Mail Account [data@austriaclimbing.com](mailto:data@austriaclimbing.com) gesendet. Falls Teilnehmer\*innen auf das Mail antworten, geht dieses also an den KVÖ, es gibt jedoch auch die Möglichkeit eine "Retour E-Mail Adresse" einzugeben an die die Antworten auf das von der Datenbank gesendete Mail zusätzlich gehen sollen. Dazu muss in das Feld "Antwort-an E-Mail Adresse" die entsprechende E-Mail Adresse eingetragen werden. Alternativ kann man die Mail Adressen aller Teilnehmer\*innen der internen Nennliste (siehe 3.5.) entnehmen und anderwärtig mit ihnen in Kontakt treten.
