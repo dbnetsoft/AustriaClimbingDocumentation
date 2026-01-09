@@ -2,8 +2,6 @@
 
 Im Register „Wertungen“ der Auswerteroberfläche können gefilterte Ergebnisse, wie zum Beispiel nach der Auswertungsklasse oder nach Bundesländern, erstellt werden. Das entsprechende Ergebnis PDF kann entweder direkt im Register „Wertungen" (wird im Folgenden erklärt) oder auch im Register „Auswertung“, bei Klick auf das PDF Symbol und Auswahl des entsprechenden Ergebnisses, geöffnet werden.
 
-&#x20;
-
 <figure><img src="../../.gitbook/assets/wertungen.jpg" alt=""><figcaption><p>Auswertungsoberfläche Register "Wertungen" neue Wertung hinzufügen</p></figcaption></figure>
 
 * Mit Klick auf **„Hinzufügen“** (rotes Kästchen 1) erscheint eine neue, grau hinterlegte, Zeile
@@ -12,51 +10,47 @@ Im Register „Wertungen“ der Auswerteroberfläche können gefilterte Ergebnis
 * In der Spalte **„Report-Title“** den Namen der Wertung eingeben der auf den PDF Ergebnislisten stehen soll
 * Auf **„Speichern“** klicken
 
-
-
 Nach dem Speichern erscheinen rechts zwei neue Buttons.
 
-<figure><img src="../../.gitbook/assets/wertungen_gespeichert (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wertungen_gespeichert.jpg" alt=""><figcaption></figcaption></figure>
 
 * Mit Klick auf das **PDF Symbol** öffnet sich ein PDF mit den, entsprechend den getroffenen Einstellungen, gefiltertem/gruppierten Ergebnis
-* Mit Klick auf den **Pfeil** öffnet man das Fenster, in dem die Einstellungen für die entsprechenden gefilterte Wertungen getroffen werden&#x20;
-
-
+* Mit Klick auf den **Pfeil** öffnet man das Fenster, in dem die Einstellungen für die entsprechenden gefilterte Wertungen getroffen werden
 
 ### Einstellungen gefilterte Wertungen
 
 Nach Klick auf den Pfeil öffnet sich die im folgenden abgebildete Seite.
 
-<figure><img src="../../.gitbook/assets/wertungen_einstellungen (1).jpg" alt=""><figcaption><p>Einstellungen des Registers "Wertungen" der Auswertungsoberfläche </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wertungen_einstellungen.jpg" alt=""><figcaption><p>Einstellungen des Registers "Wertungen" der Auswertungsoberfläche</p></figcaption></figure>
 
 #### Gruppierungen
 
-In der Tabelle „Gruppierungen“ (rotes Kästchen 2) wird ausgewählt nach welchem Kriterium die Athleten gruppiert werden sollen.&#x20;
+In der Tabelle „Gruppierungen“ (rotes Kästchen 2) wird ausgewählt nach welchem Kriterium die Athleten gruppiert werden sollen.
 
-* Im „normalen“ Ergebnis wird immer nach Bewerbsklassen gruppiert, hier kann zusätzlich noch nach „Auswertungsklasse“, „Bundesland“, „Land“ und „Verein“ gruppiert werden.&#x20;
+* Im „normalen“ Ergebnis wird immer nach Bewerbsklassen gruppiert, hier kann zusätzlich noch nach „Auswertungsklasse“, „Bundesland“, „Land“ und „Verein“ gruppiert werden.
 * Mit Klick auf „Hinzufügen“ kann eine neue Gruppierung hinzugefügt werden
 * Mit Klick auf „Speichern“ wird die Auswahl gespeichert
 * Wählt man zum Beispiel „Bundesland“ aus, so werden alle Athlet\*innen desselben Bundeslands, unabhängig von ihrer Bewerbsklasse, in eine Gruppe gegeben und nach ihren Ergebnissen gereiht
 * Wählt man „Auswertungsklasse“ aus, so werden alle Athlet\*innen nach ihrer Auswertungsklasse gruppiert und in ihrer Auswertungsklasse gereiht. Ein Beispiel wie diese Wertung im Ergebnis-PDF aussieht ist im folgenden gegeben.
 
-<figure><img src="../../.gitbook/assets/wertungen_auswertungsk_ergebnis (1).jpg" alt=""><figcaption><p>Ergebnis der Wertung nach Auswertungsklassen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wertungen_auswertungsk_ergebnis.jpg" alt=""><figcaption><p>Ergebnis der Wertung nach Auswertungsklassen</p></figcaption></figure>
 
-* Möchte man, dass die Athlet\*innen innerhalb ihrer Auswertungsklasse nach Bundesländern gereiht werden, muss man zwei Gruppierungen hinzufügen&#x20;
+* Möchte man, dass die Athlet\*innen innerhalb ihrer Auswertungsklasse nach Bundesländern gereiht werden, muss man zwei Gruppierungen hinzufügen
 
-<figure><img src="../../.gitbook/assets/wertungen_aus_bund (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wertungen_aus_bund.jpg" alt=""><figcaption></figcaption></figure>
 
 * Zusätzlich kann noch eingestellt werden ob „Aufsteigend“ oder „Absteigend“ sortiert werden soll
 * Um Gruppierungen zu löschen die entsprechende Zeile auswählen und auf „Löschen“ klicken
 
 #### Filter
 
-In der Tabelle „Filter“ (rotes Kästchen 1) können die ausgewählten Gruppierungen noch weiter gefiltert werden.&#x20;
+In der Tabelle „Filter“ (rotes Kästchen 1) können die ausgewählten Gruppierungen noch weiter gefiltert werden.
 
 * Mit Klick auf „Hinzufügen“ kann ein neuer Filter erstellt werden
 * In der Spalte „Feld“ kann mittels Dropdown-Menü ausgewählt werden was gefiltert werden soll. Man kann „Alter“, „Auswertungsklasse“, „Bewerbsklasse“, „Bundesland“, „Land“, „Verein“ und „Jahrgang“ auswählen
 * In der Spalte „Vergleich“ wird die logische Bedingung des Filters ausgewählt. Man kann im Dropdown-Menü zwischen „größer“, „größer oder gleich“, „ist“, „ist nicht“, „kleiner“ und „kleiner oder gleich“ wählen.
 * In der Spalte „Vergleichswert“ muss eingegeben werden welchen Wert das „Feld“ haben soll bzw. nicht haben soll (bei „ist nicht“). Achtung: der Vergleichswert muss exakt eingegeben werden und muss ausgeschrieben werden: z.B. „U16 Männlich“ oder „Steiermark“, nicht „STMK“. Die genauen Bezeichnungen die für die Vergleichswerte zur Auswahl stehen sind ganz oben in dem Feld "Info" aufgeführt und können von dort kopiert werden.
-* In der Spalte „Verknüpfung“ können mehrere Filter miteinander logisch verknüpft werden. Man kann auswählen zwischen „Oder“ und „Und“.&#x20;
+* In der Spalte „Verknüpfung“ können mehrere Filter miteinander logisch verknüpft werden. Man kann auswählen zwischen „Oder“ und „Und“.
 * Mit Klick auf „Speichern“ wird der eingestellte Filter gespeichert
 * Um Filter zu löschen die entsprechende Zeile auswählen und auf „Löschen“ klicken
 
@@ -75,7 +69,7 @@ Der Bewerb wird mit der Bewerbsklasse „AK Männlich“ durchgeführt, man möc
 * Neue „Gruppierungen“ hinzufügen: Felds „Auswertungsklasse“ und „Aufsteigend“ sortieren
 * Nun würde das Ergebnis wie in Abbildung 36 aussehen
 * Man möchte jedoch nur U18 Männlich und U20 Männlich haben, da es ja nur um die Nachwuchswertung geht.
-* Neue „Filter“ hinzufügen&#x20;
+* Neue „Filter“ hinzufügen
 * Mit Button „Upload“ die entsprechenden Athleten in die Tabelle laden
 
 Alle Einstellungen dieses Beispiels sind in folgender Abbildung dargestellt.

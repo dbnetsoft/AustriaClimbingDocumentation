@@ -1,6 +1,6 @@
 # Nennungen (Adminoberfläche)
 
-Im Register „Nennungen“ kann die automatische Registrierung aktiviert werden. Außerdem ist es möglich Athlet\*innen für den Bewerb direkt zu nennen.
+Im Register „Nennungen“ kann die automatische Registrierung aktiviert werden. Außerdem ist es möglich Athlet:innen für den Bewerb direkt zu nennen.
 
 <figure><img src="../.gitbook/assets/nennungen.jpg" alt=""><figcaption><p>Adminoberfläche Register "Nennungen"</p></figcaption></figure>
 
