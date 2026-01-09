@@ -24,4 +24,4 @@ Dokumente, die auf der öffentliche Bewerbsseite hochgeladen werden sollen, kön
 Dokumente, die gelesen und akzeptiert werden müssen, werden den Athlet:innen wie folgt im Rahmen der Anmeldung angezeigt. Ohne den Haken (gelesen & akzeptiert) zu setzen kann man die Anmeldung nicht abschließen.\
 Eine tatsächliche physische Unterschrift kann nicht eingefordert werden, sondern lediglich die zur Kenntnisnahme durch Abhaken.
 
-<figure><img src="../.gitbook/assets/b_Dokumente_fuer_Athleten.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b_Dokumente_fuer_Athleten.png" alt=""><figcaption><p>Dokumente mit nötiger "Unterschrift": Ansicht der Athlet:innen kurz vor Anmeldung</p></figcaption></figure>
