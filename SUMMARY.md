@@ -83,6 +83,8 @@
   * [Finale & Gesamtwertung (Boulder\&Lead)](bewerb-auswerten-boulder-and-lead/finale-and-gesamtwertung-boulder-and-lead.md)
   * [Bewerbsabschluss (Boulder\&Lead)](bewerb-auswerten-boulder-and-lead/bewerbsabschluss-boulder-and-lead.md)
 * [Paraclimbing Bewerb durchführen](paraclimbing-bewerb-durchfuhren.md)
+* [Teamwettkampf & Teamwertung](teamwertung.md)
+* [Teambewerbe & Teamwertungen](teambewerbe-and-teamwertungen.md)
 * [Ranking/Gesamtwertung anlegen](ranking-gesamtwertung-anlegen/README.md)
   * [Einstellungen](ranking-gesamtwertung-anlegen/einstellungen.md)
   * [Gruppen](ranking-gesamtwertung-anlegen/gruppen.md)
