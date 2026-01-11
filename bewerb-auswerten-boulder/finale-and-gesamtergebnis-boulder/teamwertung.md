@@ -16,7 +16,7 @@ Die Auswertung des Wettkampfes findet nun genau so statt, wie bei einem herkömm
 
 **Jeder Teamwertung liegt eine Wertung zu Grunde! Es muss also jedenfalls auch eine Wertung erstellt werden, um eine Teamwertung erstellen zu können.**
 
-Im Register „Teamwertungen“ der Auswerteroberfläche können die Athlet:innen in Teams zusammengefasst werden und ein Ranking der Teams erstellt werden. Somit wird unter anderem ermöglicht die beste Sektion / das beste Bundesland schnell zu ermitteln. Das entsprechende Ergebnis PDF kann entweder direkt im Register „Teamwertungen" (wird im Folgenden erklärt) geöffnet werden oder im Register Auswertung, gemeinsam mit anderen Ergebnislisten.
+Im Register „Teamwertungen“ der Auswerteroberfläche können die Athlet:innen in Teams zusammengefasst werden und ein Ranking der Teams erstellt werden. Somit wird unter anderem ermöglicht die beste Sektion / das beste Bundesland schnell zu ermitteln. Das entsprechende Ergebnis PDF kann direkt im Register „Teamwertungen" (wird im Folgenden erklärt) geöffnet werden.
 
 * Mit Klick auf **„Hinzufügen“** erscheint eine neue Zeile
 * In der Spalte **„Name“** den Namen für die Teamwertung eingeben
@@ -45,3 +45,23 @@ Nach Klick auf den Pfeil öffnet sich die im folgenden abgebildete Seite.
 * Es kann eine Anzahl an Mitglieder pro Team gewählt werden und somit die Teams untereinander aufgeteilt werden
 
 Mit Klick auf "Update" werden die Athlet:innen in die Teams aufgeteilt, die Punkte vergeben und das Ergebnis in der untenstehenden Tabelle und im PDF dargestellt.
+
+### Beispiel für eine Teamwertung mit Teams durch Bundesländer
+
+Auf Grund der Quoten-Regelung für die Startplätze bei der ÖM U13 (siehe Österreichische Bestimmungen 5.7.1.) müssen Bundesländer-Rankings aus den ÖM U13 Bewerben Boulder und Lead erstellt werden. Die Erklärung & Screenshots unten beschreiben die Erstellung der Teamwertung nach Bundesländern bei der ÖM U13 Boulder 2025 - diese Wertung bildet die Grundlage für die Startquoten bie der ÖM U13 Boulder 2026.
+
+1. Die ÖM Boulder U13 wurde wie üblich ausgewertet, die Teamwertung wurde im Nachhinein erstellt
+2. Wertung: Da der Teamwertung eine Wertung zu Grunde liegen muss, wurde eine Wertung erstellt mit Gruppierung nach Bewerbsklassen, somit wird das Ergebnis nicht verändert.
+
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2026-01-11 um 13.57.55.png" alt=""><figcaption><p>Wertung als Grundlage für die Teamwertung</p></figcaption></figure>
+
+3. Teamwertung: Eine Teamwertung wird angelegt und die in Punkt 2. erstellte Wertung damit verknüpft. Die Teamwertung wird wie folgt eingestellt:
+   1. Team durch Bundesland
+   2. Rang: In diesem Fall irrelevant ob Bewerbsrang oder Wertungsrang, weil diese sich nicht unterscheiden
+   3. Anzahl Mitglieder pro Team: 5 (lt. Österr. Bestimmungen)
+
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2026-01-11 um 13.59.30.png" alt=""><figcaption></figcaption></figure>
+
+4. Durch klicken auf "Update" werden die Ränge und Punkte eingetragen und die Teamwertung berechnet. Das Ergebnis sieht wie folgt aus und kann über das PDF Symbol direkt heruntergeladen werden.
+
+<figure><img src="../../.gitbook/assets/Bildschirmfoto 2026-01-11 um 14.03.00.png" alt=""><figcaption></figcaption></figure>
