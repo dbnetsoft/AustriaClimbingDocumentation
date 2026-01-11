@@ -1,8 +1,10 @@
 # Teamwertung
 
-WICHTIG: Um eine Teamwertung anlegen zu können, muss nicht unbedingt in der Admin Bewerbsoberfläche unter "Bearbeiten" der Haken "Team" aktiviert sein. Dieser ist nur dann nötig, wenn es für die Durchführung des Bewerbs Teams mit Teamnamen geben soll, statt die Teilnehmer:innen nach Charakteristika wie z.B. Verein oder Bundesland zu gruppieren. Andernfalls kann A) übersprungen und nur B) durchgeführt werden.
+WICHTIG: Um eine Teamwertung anlegen zu können, muss nicht unbedingt in der Admin Admin-Bewerbsoberfläche unter "Bearbeiten" der Haken "Team" aktiviert sein. Dieser ist nur dann nötig, wenn es für die Durchführung des Bewerbs Teams mit Teamnamen geben soll, statt die Teilnehmer:innen nach Charakteristika wie z.B. Verein oder Bundesland zu gruppieren. Andernfalls kann A) übersprungen und nur B) durchgeführt werden.
 
 ### **A) Teamwettkampf (z.B. Schulbouldercup):**
+
+Es empfiehlt sich die erstmalige Auswertung eines Teambewerbs vorab am Testserver zu testen! Bisher wurden Teamwettkämpfe nur in der Disziplin Boulder durchgeführt, sollten aber auch in der Disziplin Lead im System möglich sein.
 
 Nachdem in der Bewerbsoberfläche der Haken "Team" aktiviert wurde, ist in der Auswertungsoberfläche unter Nennungen eine zusätzliche Spalte für die Teamnamen ersichtlich. Die Teamnamen können einfach in der Tabelle eingegeben werden. Achtet dabei auf die exakte Schreibweise! Athlet:innen können nur dann den Teams zugeordnet werden, wenn die Teamnamen genau gleich geschrieben sind.
 
