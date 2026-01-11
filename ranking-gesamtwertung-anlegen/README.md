@@ -8,6 +8,6 @@ Die Auswerteroberfläche unterscheidet sich deutlich von der der Einzelbewerbe. 
 
 Es kann auch eine Teamwertung erstellt werden. Dies funktioniert analog zu Teamwertungen in Einzelbewerben und ist hier erklärt:
 
-{% content-ref url="../bewerb-auswerten-boulder/finale-and-gesamtergebnis-boulder/teamwertung.md" %}
-[teamwertung.md](../bewerb-auswerten-boulder/finale-and-gesamtergebnis-boulder/teamwertung.md)
+{% content-ref url="/broken/pages/tgfKO8A23Z4zOC3iSIpS" %}
+[Broken link](/broken/pages/tgfKO8A23Z4zOC3iSIpS)
 {% endcontent-ref %}

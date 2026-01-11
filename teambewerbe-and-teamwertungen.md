@@ -1,2 +1,0 @@
-# Teambewerbe & Teamwertungen
-
