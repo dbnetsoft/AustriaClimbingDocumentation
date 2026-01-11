@@ -58,7 +58,7 @@
   * [Semifinale (Boulder)](bewerb-auswerten-boulder/semifinale-boulder.md)
   * [Finale & Gesamtergebnis (Boulder)](bewerb-auswerten-boulder/finale-and-gesamtergebnis-boulder/README.md)
     * [Wertungen](bewerb-auswerten-boulder/finale-and-gesamtergebnis-boulder/wertungen.md)
-    * [Teamwertung](bewerb-auswerten-boulder/finale-and-gesamtergebnis-boulder/teamwertung.md)
+    * [Teamwertung & Teamwettkampf](bewerb-auswerten-boulder/finale-and-gesamtergebnis-boulder/teamwertung.md)
   * [Bewerbsabschluss (Boulder)](bewerb-auswerten-boulder/bewerbsabschluss-boulder.md)
 * [Bewerb auswerten: Lead](bewerb-auswerten-lead/README.md)
   * [Vor dem Start (Lead)](bewerb-auswerten-lead/vor-dem-start-lead.md)
