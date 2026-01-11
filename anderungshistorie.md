@@ -8,6 +8,7 @@ Im Laufe des Jahres 2025, vor allem im Herbst / Winter, wurden einige Änderunge
 
 * Bewerbe anlegen (Bearbeiten, Dokumente, Nennungen)
 * Bewerbe auswerten Boulder (Wechselmodus, Team Wertungen)
+* Verfügbare Bewerbsmodi (Wechselmodus, Boulder und Lead)
 * Ranking/Gesamtwertung
 
 **10.01.2025**

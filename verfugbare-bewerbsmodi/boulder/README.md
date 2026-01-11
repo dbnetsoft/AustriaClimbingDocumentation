@@ -14,6 +14,10 @@ Für Boulderbewerbe gibt es zwei Einstellungsmöglichkeiten. Den "Auswertungsmod
 [jam.md](jam.md)
 {% endcontent-ref %}
 
+{% content-ref url="wechselmodus.md" %}
+[wechselmodus.md](wechselmodus.md)
+{% endcontent-ref %}
+
 ### Auswertungsmodi
 
 {% content-ref url="tops-and-zonen.md" %}

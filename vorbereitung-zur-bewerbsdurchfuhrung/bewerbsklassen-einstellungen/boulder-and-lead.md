@@ -14,9 +14,8 @@ Einstellungen für die Einzeldisziplin sind dieselben wie bei einem reinen Bould
 
 Es ist nur der Bewerbsmodus „Boulder\&Lead“ möglich (Stand 02/2024)
 
-Es ist nur das Olympische Format möglich: 4 Boulder und 1 Route (Stand 02/2024)
+NEU: Es können beliebig viele Boulder und Routen eingestellt werden.
 
 Die Semifinal und Finaleinstellungen müssen für beide Einzeldisziplinen eingegeben werden. Die Quote wird bei Eingabe für eine Disziplin automatisch für die andere übernommen.
 
 <figure><img src="../../.gitbook/assets/Bewerbsklassen b&#x26;l.jpg" alt=""><figcaption><p>Bewerbsklassen-Einstellungen Boulder&#x26;Lead</p></figcaption></figure>
-

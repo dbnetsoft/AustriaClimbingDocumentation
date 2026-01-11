@@ -1,6 +1,6 @@
 # Boulder\&Lead
 
-Bei einem Boulder\&Lead Bewerb ist Stand 03/2024 nur der Modus „Boulder\&Lead“ möglich. Dazu muss sowohl für die Boulderrunden als auch für die Leadrunden der Modus „Boulder\&Lead“ ausgewählt werden.&#x20;
+Bei einem Boulder\&Lead Bewerb ist Stand 03/2024 nur der Modus „Boulder\&Lead“ (bzw Punkte bei Boulder) möglich. Dazu muss sowohl für die Boulderrunden als auch für die Leadrunden der Modus „Boulder\&Lead“ ausgewählt werden.
 
 Wie dieser Modus für die Boulderrunde aussieht ist hier erklärt:
 
