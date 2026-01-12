@@ -2,34 +2,26 @@
 
 In diesem Kapitel werden häufige Fehler/Probleme und Lösungsvorschläge aufgelistet.
 
-&#x20;
-
 ### Startnummernhintergrund erscheint nicht
 
 * Ist ein Startnummernhintergrund in der Adminoberfläche im Register „Logos“ hochgeladen?
 * Ist der Startnummernhintergrund in der Adminoberfläche im Register „PDF Listen“ ausgewählt?
 
-&#x20;
-
 ### Lead & Speed: Startlisten werden nicht angezeigt
 
-* Wurde für alle Routen / Runs die Startreihenfolge verlost/bestimmt?&#x20;
+* Wurde für alle Routen / Runs die Startreihenfolge verlost/bestimmt?
 
-### Keine Liveergebnisse
+### Keine Live-Ergebnisse
 
 * Ist der Status des Bewerbs auf „Läuft“?
 * Ist der Status der aktuellen Bewerbsklasse und Runde auf „Läuft“?
 * Achtung: Bei dem Modus „Boulderjam“ und „Performance Based“ gibt es keine Liveergebnisse, Ergebnisse sind erst online sichtbar, wenn der Status auf „Offizielles Ergebnis“ gestellt wurde.
 
-
-
-### Speichern vergessen&#x20;
+### Speichern vergessen
 
 (vor allem bei Bewerbsklassen Einstellungen, weil man nach unten scrollen muss)
 
 Mittlerweile sollte bei den meisten Masken auch eine Warnung kommen, sobald man wegnavigieren möchte und Daten geändert wurden.
-
-
 
 ### Kein Einsteigen in die Auswertung möglich / sonstige Fehlermeldungen
 
@@ -37,22 +29,16 @@ Wenn das Einsteigen in die Auswertungsmaske nicht mehr möglich ist, liegt das h
 
 Auch bei sonstigen Fehlermeldungen, die nicht direkt auf etwas anderes zurückzuführen sind, kann eine Kontrolle / Änderung des Bewerbsstatus eine hilfreiche Vorgehensweise sein.
 
-
-
 ### Ergebnisse im Backend/Auswertungsoberfläche sind nicht aktuell
 
 Während des Bewerbs wird oft über LiveScoring direkt von den Schiedsrichtern die Wertungen eingetragen. Diese werden dann automatisch an die LiveResults gesendet (online im Kalender und in der Screenanzeige). Im Backend/Auswertungsoberfläche muss man die Seite jedoch manuell neu geladen werden oder über den "Aktualisieren" Button auf den aktuellen Stand gebracht werden.
-
-
 
 ### Ränge werden nicht berechnet
 
 Das sollte im Normalfall nicht passieren, die Ränge sollten bei Eingabe über LiveScoring oder in der Auswertungsoberfläche immer automatisch berechnet werden. Ist dies jedoch nicht der Fall kann man zwei Methoden zur Hilfe nehmen:
 
-* Im Dropdown mit den drei Punkten findet man den Button "Aktualisieren". Drückt man den sollen alle Ergebnisse aktuell sein und die Ränge korrekt berechnet werden.&#x20;
+* Im Dropdown mit den drei Punkten findet man den Button "Aktualisieren". Drückt man den sollen alle Ergebnisse aktuell sein und die Ränge korrekt berechnet werden.
 * Funktioniert es trotz aktualisieren nicht kann man manuell in der Auswertungsoberfläche/Backend eine Wertung eintragen/ändern und speichern. Spätestens nun sollten die Ränge richtig berechnet werden. Achtung: Die eingetragene Wertung wenn sie nur eine Dummywertung war nicht vergessen wieder zu ändern/löschen.
-
-
 
 ## Kontakt im Falle von Fragen zur Auswertung:
 
