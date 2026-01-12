@@ -7,8 +7,9 @@ Die folgenden Änderungen sind in die bestehende Version eingearbeitet, mit den 
 Im Laufe des Jahres 2025, vor allem im Herbst / Winter, wurden einige Änderungen an der Datenbank durchgeführt. Diese Änderungen **werden aktuell in das Handbuch eingepflegt** und betreffen vor allem die folgenden Bereiche:
 
 * Bewerbe anlegen (Bearbeiten, Dokumente, Nennungen)
-* Bewerbe auswerten Boulder (Wechselmodus, Team Wertungen)
+* Bewerbe auswerten Boulder (Wechselmodus)
 * Verfügbare Bewerbsmodi (Wechselmodus, Boulder und Lead)
+* Teamwettkampf & Teamwertung
 * Ranking/Gesamtwertung
 
 **10.01.2025**
