@@ -2,6 +2,16 @@
 
 In diesem Kapitel werden häufige Fehler/Probleme und Lösungsvorschläge aufgelistet.
 
+### Gesamtwertung: Zu viele / falsche Athlet:innen im Ranking
+
+Bei der Erstellung einer Gesamtwertung werden nicht nur die gewünschten Athlet:innen in die Ergebnisse geladen, sondern auch Athlet:innen aus anderen Bewerbsklassen / Geschlechtern?
+
+Vermutliche beinhalten die relevanten Bewerbe im Ranking mehr Klassen, als für das Ranking relevant sind. Befolge einen dieser Schritte:
+
+a) Falls es in den einzelnen Bewerben schon Wertungen für die gewünschte Klasse gibt, wähle im Rankingbewerb unter Bewerbe die entsprechende Wertung als Basis für den Ergebnisimport aus. Danach alle Ergebnisse der Bewerbe aktualisieren & Punkte zuweisen und Gesamt aktualisieren.
+
+b) Wenn in den einzelnen Bewerben keine Rankings gemacht wurden, kannst du stattdessen im Rankingbewerb eine Wertung erstellen: Wertungen -> neue Wertung erstellen -> Filter nach den gewünschten Klassen. Danach unter Bewerbe alle Ergebnisse der Bewerbe aktualisieren & Punkte zuweisen und Gesamt aktualisieren.
+
 ### Startnummernhintergrund erscheint nicht
 
 * Ist ein Startnummernhintergrund in der Adminoberfläche im Register „Logos“ hochgeladen?
