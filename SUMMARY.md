@@ -91,6 +91,7 @@
   * [Gruppen](ranking-gesamtwertung-anlegen/gruppen.md)
   * [Bewerbe](ranking-gesamtwertung-anlegen/bewerbe.md)
   * [Auswertung](ranking-gesamtwertung-anlegen/auswertung.md)
+  * [Wertungen](ranking-gesamtwertung-anlegen/wertungen.md)
 * [Typische Probleme/Fehlermeldungen](typische-probleme-fehlermeldungen.md)
 * [Änderungshistorie](anderungshistorie.md)
 * [Operating Checklisten](operating-checklisten/README.md)
