@@ -6,7 +6,7 @@ Möchte man Wertungen eines Rankingbewerbs machen funktioniert das analgo zu Wer
 [wertungen.md](../bewerb-auswerten-boulder/finale-and-gesamtergebnis-boulder/wertungen.md)
 {% endcontent-ref %}
 
-Möchte man in dem Rankinbewerb nur Athlet\*innen einer Kategorie anzeigen lassen gibt es zwei Varianten:
+Möchte man in dem Rankinbewerb nur Athlet\*innen einer Bewerbsklasse anzeigen lassen, obwohl an den relevanten Bewerben mehrere Klassen teilgenommen haben, gibt es zwei Varianten:
 
 1. Im Register "Bewerbe" im Dropdown "Wertungen"
    1. Im Dropdown "Wertungen" wird die entsprechende Bewerbswertung ausgewählt
