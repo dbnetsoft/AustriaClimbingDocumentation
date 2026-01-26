@@ -15,6 +15,7 @@
   * [PDF Listen (Adminoberfläche)](bewerbe-anlegen/pdf-listen-adminoberflache.md)
   * [Users (Adminoberfläche)](bewerbe-anlegen/users-adminoberflache.md)
   * [E-Mails (Adminoberfläche)](bewerbe-anlegen/e-mails-adminoberflache.md)
+  * [Zahlungen](bewerbe-anlegen/zahlungen.md)
 * [Vorbereitung zur Bewerbsdurchführung](vorbereitung-zur-bewerbsdurchfuhrung/README.md)
   * [Bewerbs- & Auswertungsklassen](vorbereitung-zur-bewerbsdurchfuhrung/bewerbs-and-auswertungsklassen.md)
   * [Logos (Optional)](vorbereitung-zur-bewerbsdurchfuhrung/logos-optional.md)
