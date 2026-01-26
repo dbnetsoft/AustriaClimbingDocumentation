@@ -2,9 +2,9 @@
 
 Die folgenden Änderungen sind in die bestehende Version eingearbeitet, mit den neuesten Änderungen am Anfang der Liste.
 
-**Januar 2026 - IN ARBEIT!**
+**Januar 2026**
 
-Im Laufe des Jahres 2025, vor allem im Herbst / Winter, wurden einige Änderungen an der Datenbank durchgeführt. Diese Änderungen **werden aktuell in das Handbuch eingepflegt** und betreffen vor allem die folgenden Bereiche:
+Im Laufe des Jahres 2025, vor allem im Herbst / Winter, wurden einige Änderungen an der Datenbank durchgeführt. Diese Änderungen wurden in das Handbuch eingepflegt und betreffen vor allem die folgenden Bereiche:
 
 * Bewerbe anlegen (Bearbeiten, Dokumente, Nennungen)
 * Bewerbe auswerten Boulder (Wechselmodus)
