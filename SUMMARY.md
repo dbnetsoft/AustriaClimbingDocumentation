@@ -30,7 +30,7 @@
     * [Bewerbs- und Auswertungsklasse wechseln](vorbereitung-zur-bewerbsdurchfuhrung/nennliste/bewerbs-und-auswertungsklasse-wechseln.md)
   * [Startliste](vorbereitung-zur-bewerbsdurchfuhrung/startliste.md)
   * [Startnummern-Etiketten](vorbereitung-zur-bewerbsdurchfuhrung/startnummern-etiketten.md)
-  * [Atlet\*innen hinzufügen/entfernen](vorbereitung-zur-bewerbsdurchfuhrung/atlet-innen-hinzufugen-entfernen.md)
+  * [Atlet:innen hinzufügen/entfernen](vorbereitung-zur-bewerbsdurchfuhrung/atlet-innen-hinzufugen-entfernen.md)
   * [PDF Bearbeitungen](vorbereitung-zur-bewerbsdurchfuhrung/pdf-bearbeitungen.md)
 * [Verfügbare Bewerbsmodi](verfugbare-bewerbsmodi/README.md)
   * [Boulder](verfugbare-bewerbsmodi/boulder/README.md)
