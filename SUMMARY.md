@@ -26,7 +26,7 @@
     * [Lead](vorbereitung-zur-bewerbsdurchfuhrung/bewerbsklassen-einstellungen/lead.md)
     * [Speed](vorbereitung-zur-bewerbsdurchfuhrung/bewerbsklassen-einstellungen/speed.md)
     * [Boulder\&Lead](vorbereitung-zur-bewerbsdurchfuhrung/bewerbsklassen-einstellungen/boulder-and-lead.md)
-  * [Nennliste](vorbereitung-zur-bewerbsdurchfuhrung/nennliste/README.md)
+  * [Nennungen (Auswertungs-Oberfläche)](vorbereitung-zur-bewerbsdurchfuhrung/nennliste/README.md)
     * [Bewerbs- und Auswertungsklasse wechseln](vorbereitung-zur-bewerbsdurchfuhrung/nennliste/bewerbs-und-auswertungsklasse-wechseln.md)
   * [Startliste](vorbereitung-zur-bewerbsdurchfuhrung/startliste.md)
   * [Startnummern-Etiketten](vorbereitung-zur-bewerbsdurchfuhrung/startnummern-etiketten.md)
