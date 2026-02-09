@@ -1,4 +1,4 @@
-# Nennungen Übersicht
+# Nennungen (Übersicht)
 
 In der Auswertungs-Oberfläche gibt es nun auch den Punkt _Nennungen (Übersicht)_. Dieser Reiter wurde vor allem zur besseren Übersicht eingefügt, bei Bewerben, welche zu unterschreibende Dokumente und/oder Online-Zahlungen beinhalten (siehe Punkt "Bewerbe anlegen - Dokument" &  "Bewerbe anlegen - Zahlungen")
 
