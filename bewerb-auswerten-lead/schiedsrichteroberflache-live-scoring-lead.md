@@ -4,6 +4,8 @@ Die Ergebniseingabe für Schiedsrichter kann über das Register „Auswertung“
 
 Alle Wertungen die vom Schiedsrichter über die LiveScoring Oberfläche eingetragen werden sind automatisch im LiveResults (online im Kalender bzw Screenanzeige) sichtbar. Im Backend/Auswertungsoberfläche muss man die Seite neu laden um die aktuellen Ergebnisse zu sehen.
 
+Bei Lead-Bewerben wird die Live Scoring Oberfläche im Normalfall nur im Finale verwendet, da die Eingabe in der Quali zu aufwändig und ein Live Ergebnis nicht unbedingt nötig ist.
+
 Beim ersten Öffnen sieht die Oberfläche wie folgt aus:
 
 **Startoberfläche Live Scoring Lead**
