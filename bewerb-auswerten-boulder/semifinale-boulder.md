@@ -6,8 +6,6 @@ Findet ein Semifinale statt, muss das im Register „Bewerbsklassen“ der Auswe
 [boulder.md](../vorbereitung-zur-bewerbsdurchfuhrung/bewerbsklassen-einstellungen/boulder.md)
 {% endcontent-ref %}
 
-&#x20;
-
 #### Qualifikationsergebnis offiziell machen
 
 * Nach Ende der Qualifikationsrunde und Kontrolle der Ergebnisse, **Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“** stellen. Dies kann in der Auswerteroberfläche im Register „Bewerbsklassen“ oder im Register „Auswertung“ gemacht werden.
@@ -23,7 +21,7 @@ Im Rundenergebnis PDF sind die fürs Semifinale qualifizierten Athleten\*innen g
 [startliste.md](../vorbereitung-zur-bewerbsdurchfuhrung/startliste.md)
 {% endcontent-ref %}
 
-* Register „Startlisten“ der Auswertungsoberfläche&#x20;
+* Register „Startlisten“ der Auswertungsoberfläche
 
 <figure><img src="../.gitbook/assets/startlisten_semi_neu.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -31,19 +29,19 @@ Im Rundenergebnis PDF sind die fürs Semifinale qualifizierten Athleten\*innen g
 * Startreihenfolge über den Button auslosen. Es gibt zwei Möglichkeiten:
   * Zufällig
   * Nach vorherigem Rundenergebnis: der am schlechtesten platzierte/r für das Semifinale qualifizierte/r Athlet\*in startet zuerst, der/die Bestplatzierte zum Schluss
-* In der Tabelle werden alle registrierten Athlet\*innen angezeigt, aber nur fürs Semifinale qualifizierte Athlet\*innen haben eine Startposition&#x20;
+* In der Tabelle werden alle registrierten Athlet\*innen angezeigt, aber nur fürs Semifinale qualifizierte Athlet\*innen haben eine Startposition
   * Siehe Abbildung: In diesem Beispiel sind neun Athleten in der Qualifikation gestartet und die besten Acht haben sich für das Semifinale qualifiziert)
 * Startlisten, Schiedsrichterlisten, Laufzettel,… wie in der Page "Startliste" beschrieben öffnen
 
 #### Sobald das Semifinale startet den Status der entsprechenden Bewerbsklasse auf „Läuft“ stellen
 
-#### Ergebniseingabe über die Schiedsrichteroberfläche&#x20;
+#### Ergebniseingabe über die Schiedsrichteroberfläche
 
-{% content-ref url="qualifikation-boulder/schiedsrichteroberflache-live-scoring-boulder.md" %}
-[schiedsrichteroberflache-live-scoring-boulder.md](qualifikation-boulder/schiedsrichteroberflache-live-scoring-boulder.md)
+{% content-ref url="schiedsrichteroberflache-live-scoring-boulder.md" %}
+[schiedsrichteroberflache-live-scoring-boulder.md](schiedsrichteroberflache-live-scoring-boulder.md)
 {% endcontent-ref %}
 
-#### Ergebniseingabe und -kontrolle in der Auswertungsoberfläche&#x20;
+#### Ergebniseingabe und -kontrolle in der Auswertungsoberfläche
 
 {% content-ref url="qualifikation-boulder/ergebniseingabe-register-auswertung-boulder.md" %}
 [ergebniseingabe-register-auswertung-boulder.md](qualifikation-boulder/ergebniseingabe-register-auswertung-boulder.md)
@@ -58,7 +56,5 @@ Im Rundenergebnis PDF sind die fürs Semifinale qualifizierten Athleten\*innen g
 {% content-ref url="qualifikation-boulder/screeneinstellungen.md" %}
 [screeneinstellungen.md](qualifikation-boulder/screeneinstellungen.md)
 {% endcontent-ref %}
-
-
 
 Nach Ende der Semifinalrunde und Kontrolle der Ergebnisse, **Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“** stellen.

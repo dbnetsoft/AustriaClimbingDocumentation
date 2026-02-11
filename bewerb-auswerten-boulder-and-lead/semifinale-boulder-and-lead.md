@@ -6,8 +6,6 @@ Findet ein Semifinale statt, muss das im Register „Bewerbsklassen“ der Auswe
 [boulder-and-lead.md](../vorbereitung-zur-bewerbsdurchfuhrung/bewerbsklassen-einstellungen/boulder-and-lead.md)
 {% endcontent-ref %}
 
-&#x20;
-
 #### Qualifikationsergebnis offiziell machen
 
 * Nach Ende der Qualifikationsrunde und Kontrolle der Ergebnisse, **Status der entsprechenden Bewerbsklasse für Boulder und Lead auf „Offizielles Ergebnis“ stellen**. Dies kann in der Auswerteroberfläche im Register „Bewerbsklassen“ oder im Register „Auswertung“ beider Einzeldisziplinen gemacht werden.
@@ -23,7 +21,7 @@ Im Rundenergebnis PDF im Register „Ergebnisse“ sind die fürs Semifinale qua
 [startliste.md](../vorbereitung-zur-bewerbsdurchfuhrung/startliste.md)
 {% endcontent-ref %}
 
-* Register „Startlisten“ unter der Überschrift Boulder der Auswertungsoberfläche&#x20;
+* Register „Startlisten“ unter der Überschrift Boulder der Auswertungsoberfläche
 * Im Dropdown-Menü die Runde „Semifinale“ und die entsprechende Bewerbsklasse auswählen
 * Startreihenfolge über den Button auslosen. Es gibt zwei Möglichkeiten:
   * Zufällig
@@ -31,12 +29,10 @@ Im Rundenergebnis PDF im Register „Ergebnisse“ sind die fürs Semifinale qua
 * In der Tabelle werden alle registrierten Athlet\*innen angezeigt, aber nur fürs Semifinale qualifizierte Athlet\*innen haben eine Startposition
 * Startlisten, Schiedsrichterlisten,… wie auf Page "Startliste" beschrieben öffnen
 
-
-
 #### Lead Startlisten generieren
 
 * Analog zu Boulderstartlisten
-* Register „Startlisten“ unter der Überschrift Lead der Auswertungsoberfläche&#x20;
+* Register „Startlisten“ unter der Überschrift Lead der Auswertungsoberfläche
 * Im Dropdown-Menü die Runde „Semifinale“ und die entsprechende Bewerbsklasse auswählen
 * Startreihenfolge über den Button (rotes Kästchen 2) auslosen. Es gibt zwei Möglichkeiten:
   * Zufällig
@@ -51,14 +47,12 @@ Im Rundenergebnis PDF im Register „Ergebnisse“ sind die fürs Semifinale qua
 [screeneinstellungen.md](../bewerb-auswerten-boulder/qualifikation-boulder/screeneinstellungen.md)
 {% endcontent-ref %}
 
-
-
 ### Boulder
 
 * Ergebniseingabe über die Schiedsrichteroberfläche
 
-{% content-ref url="../bewerb-auswerten-boulder/qualifikation-boulder/schiedsrichteroberflache-live-scoring-boulder.md" %}
-[schiedsrichteroberflache-live-scoring-boulder.md](../bewerb-auswerten-boulder/qualifikation-boulder/schiedsrichteroberflache-live-scoring-boulder.md)
+{% content-ref url="../bewerb-auswerten-boulder/schiedsrichteroberflache-live-scoring-boulder.md" %}
+[schiedsrichteroberflache-live-scoring-boulder.md](../bewerb-auswerten-boulder/schiedsrichteroberflache-live-scoring-boulder.md)
 {% endcontent-ref %}
 
 * Ergebniseingabe und -kontrolle in der Auswertungsoberfläche
@@ -71,7 +65,7 @@ Im Rundenergebnis PDF im Register „Ergebnisse“ sind die fürs Semifinale qua
 [ergebniseingabe-register-auswertung-ubersicht-boulder.md](../bewerb-auswerten-boulder/qualifikation-boulder/ergebniseingabe-register-auswertung-ubersicht-boulder.md)
 {% endcontent-ref %}
 
-* Nach Ende der Bouldersemifinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.&#x20;
+* Nach Ende der Bouldersemifinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.
 
 ### Lead
 
@@ -87,9 +81,7 @@ Im Rundenergebnis PDF im Register „Ergebnisse“ sind die fürs Semifinale qua
 [ergebniseingabe-register-auswertung-lead.md](../bewerb-auswerten-lead/qualifikation-lead/ergebniseingabe-register-auswertung-lead.md)
 {% endcontent-ref %}
 
-* Nach Ende der Leadsemifinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.&#x20;
-
-
+* Nach Ende der Leadsemifinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.
 
 #### Ergebniserstellung der Boulder\&Lead Wertung
 

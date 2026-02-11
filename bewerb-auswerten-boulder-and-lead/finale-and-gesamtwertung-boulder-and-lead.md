@@ -6,8 +6,6 @@ Findet ein Finale statt, muss das im Register „Bewerbsklassen“ der Auswertun
 [boulder-and-lead.md](../vorbereitung-zur-bewerbsdurchfuhrung/bewerbsklassen-einstellungen/boulder-and-lead.md)
 {% endcontent-ref %}
 
-&#x20;
-
 #### Ergebnis der vorherigen Runde offiziell machen
 
 * Status der entsprechenden Bewerbsklasse und Runde beider einzelnen Disziplinen auf „Offizielles Ergebnis“ stellen. Dies kann in der Auswerteroberfläche im Register „Bewerbsklassen“ oder im Register „Auswertung“ beider Einzeldisziplinen gemacht werden.
@@ -15,17 +13,15 @@ Findet ein Finale statt, muss das im Register „Bewerbsklassen“ der Auswertun
 
 Im Register „Ergebnisse“ sind im Rundenergebnis PDF die fürs Finale qualifizierten Athleten\*innen getrennt durch eine schwarze Linie von den nichtqualifizierten Athleten\*innen dargestellt.
 
-
-
 #### Boulder Startlisten generieren
 
-* Ähnlich wie Generierung der Qualifikationsstartlisten&#x20;
+* Ähnlich wie Generierung der Qualifikationsstartlisten
 
 {% content-ref url="../vorbereitung-zur-bewerbsdurchfuhrung/startliste.md" %}
 [startliste.md](../vorbereitung-zur-bewerbsdurchfuhrung/startliste.md)
 {% endcontent-ref %}
 
-* Register „Startlisten“ unter der Überschrift Boulder der Auswertungsoberfläche&#x20;
+* Register „Startlisten“ unter der Überschrift Boulder der Auswertungsoberfläche
 * Im Dropdown-Menü die Runde „Finale“ und die entsprechende Bewerbsklasse auswählen
 * Startreihenfolge über den Button auslosen. Es gibt zwei Möglichkeiten:
   * Zufällig
@@ -35,7 +31,7 @@ Im Register „Ergebnisse“ sind im Rundenergebnis PDF die fürs Finale qualifi
 #### Lead Startlisten generieren
 
 * Analog zu Boulderstartlisten
-* Register „Startlisten“ unter der Überschrift Lead der Auswertungsoberfläche&#x20;
+* Register „Startlisten“ unter der Überschrift Lead der Auswertungsoberfläche
 * Im Dropdown-Menü die Runde „Finale“ und die entsprechende Bewerbsklasse auswählen
 * Startreihenfolge über den Button auslosen. Es gibt zwei Möglichkeiten:
   * Zufällig
@@ -50,14 +46,12 @@ Im Register „Ergebnisse“ sind im Rundenergebnis PDF die fürs Finale qualifi
 [screeneinstellungen.md](../bewerb-auswerten-boulder/qualifikation-boulder/screeneinstellungen.md)
 {% endcontent-ref %}
 
-
-
 ### Boulder
 
-* Ergebniseingabe über die Schiedsrichteroberfläche&#x20;
+* Ergebniseingabe über die Schiedsrichteroberfläche
 
-{% content-ref url="../bewerb-auswerten-boulder/qualifikation-boulder/schiedsrichteroberflache-live-scoring-boulder.md" %}
-[schiedsrichteroberflache-live-scoring-boulder.md](../bewerb-auswerten-boulder/qualifikation-boulder/schiedsrichteroberflache-live-scoring-boulder.md)
+{% content-ref url="../bewerb-auswerten-boulder/schiedsrichteroberflache-live-scoring-boulder.md" %}
+[schiedsrichteroberflache-live-scoring-boulder.md](../bewerb-auswerten-boulder/schiedsrichteroberflache-live-scoring-boulder.md)
 {% endcontent-ref %}
 
 * Ergebniseingabe und -kontrolle in der Auswertungsoberfläche
@@ -70,9 +64,7 @@ Im Register „Ergebnisse“ sind im Rundenergebnis PDF die fürs Finale qualifi
 [ergebniseingabe-register-auswertung-ubersicht-boulder.md](../bewerb-auswerten-boulder/qualifikation-boulder/ergebniseingabe-register-auswertung-ubersicht-boulder.md)
 {% endcontent-ref %}
 
-* Nach Ende der Boulderfinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.&#x20;
-
-
+* Nach Ende der Boulderfinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.
 
 ### Lead
 
@@ -82,13 +74,13 @@ Im Register „Ergebnisse“ sind im Rundenergebnis PDF die fürs Finale qualifi
 [schiedsrichteroberflache-live-scoring-lead.md](../bewerb-auswerten-lead/qualifikation-lead/schiedsrichteroberflache-live-scoring-lead.md)
 {% endcontent-ref %}
 
-* Ergebniseingabe und -kontrolle in der Auswertungsoberfläche&#x20;
+* Ergebniseingabe und -kontrolle in der Auswertungsoberfläche
 
 {% content-ref url="../bewerb-auswerten-lead/qualifikation-lead/ergebniseingabe-register-auswertung-lead.md" %}
 [ergebniseingabe-register-auswertung-lead.md](../bewerb-auswerten-lead/qualifikation-lead/ergebniseingabe-register-auswertung-lead.md)
 {% endcontent-ref %}
 
-* Nach Ende der Leadfinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.&#x20;
+* Nach Ende der Leadfinalrunde und Kontrolle der Ergebnisse, Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“ stellen.
 
 #### Im Register „Ergebnisse“ das Gesamtergebnis als PDF oder XLSX-Datei herunterladen. Achtung: 2 Tabellenblätter, Detailergebnisse sind auf Blatt 2.
 
