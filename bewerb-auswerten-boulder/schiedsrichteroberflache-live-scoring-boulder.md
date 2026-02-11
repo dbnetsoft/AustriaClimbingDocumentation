@@ -26,7 +26,7 @@ Zur Info: Sollte das Top im selben Versuch wie die Zone erreicht werden, reicht 
 
 <figure><img src="../.gitbook/assets/schiri_start (1).jpg" alt="" width="563"><figcaption><p>Live Scoring nach öffnen des QR-Codes</p></figcaption></figure>
 
-**Schritt 2: Bedienung der Eingabemaske:**
+**Schritt 3: Bedienung der Eingabemaske:**
 
 Ist die Eingabeoberfläche eines / einer Athleten:in ausgewählt verändert sich die Oberfläche zu folgender Ansicht:
 

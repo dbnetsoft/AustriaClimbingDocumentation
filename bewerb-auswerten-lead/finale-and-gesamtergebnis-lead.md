@@ -6,8 +6,6 @@ Findet ein Finale statt, muss das im Register „Bewerbsklassen“ der Auswertun
 [boulder.md](../vorbereitung-zur-bewerbsdurchfuhrung/bewerbsklassen-einstellungen/boulder.md)
 {% endcontent-ref %}
 
-&#x20;
-
 #### Ergebnis der vorherigen Runde offiziell machen
 
 * **Status der entsprechenden Bewerbsklasse und Runde auf „Offizielles Ergebnis“** stellen. Dies kann in der Auswerteroberfläche im Register „Bewerbsklassen“ oder im Register „Auswertung“ gemacht werden.
@@ -17,13 +15,13 @@ Im Rundenergebnis PDF sind die fürs Finale qualifizierten Athlet\*innen getrenn
 
 #### Startlisten generieren
 
-* Ähnlich wie Generierung der Qualifikationsstartlisten&#x20;
+* Ähnlich wie Generierung der Qualifikationsstartlisten
 
 {% content-ref url="../vorbereitung-zur-bewerbsdurchfuhrung/startliste.md" %}
 [startliste.md](../vorbereitung-zur-bewerbsdurchfuhrung/startliste.md)
 {% endcontent-ref %}
 
-* Register „Startlisten“ der Auswertungsoberfläche&#x20;
+* Register „Startlisten“ der Auswertungsoberfläche
 * Im Dropdown-Menü die Runde „Finale“ und die entsprechende Bewerbsklasse auswählen
 * Startreihenfolge über den Button auslosen. Es gibt zwei Möglichkeiten:
   * Zufällig
@@ -33,13 +31,13 @@ Im Rundenergebnis PDF sind die fürs Finale qualifizierten Athlet\*innen getrenn
 
 #### Sobald das Finale startet den Status der entsprechenden Bewerbsklasse auf „Läuft“ stellen
 
-#### Ergebniseingabe über die Schiedsrichteroberfläche&#x20;
+#### Ergebniseingabe über die Schiedsrichteroberfläche
 
-{% content-ref url="qualifikation-lead/schiedsrichteroberflache-live-scoring-lead.md" %}
-[schiedsrichteroberflache-live-scoring-lead.md](qualifikation-lead/schiedsrichteroberflache-live-scoring-lead.md)
+{% content-ref url="schiedsrichteroberflache-live-scoring-lead.md" %}
+[schiedsrichteroberflache-live-scoring-lead.md](schiedsrichteroberflache-live-scoring-lead.md)
 {% endcontent-ref %}
 
-#### Ergebniseingabe und -kontrolle in der Auswertungsoberfläche&#x20;
+#### Ergebniseingabe und -kontrolle in der Auswertungsoberfläche
 
 {% content-ref url="qualifikation-lead/ergebniseingabe-register-auswertung-lead.md" %}
 [ergebniseingabe-register-auswertung-lead.md](qualifikation-lead/ergebniseingabe-register-auswertung-lead.md)
@@ -50,8 +48,6 @@ Im Rundenergebnis PDF sind die fürs Finale qualifizierten Athlet\*innen getrenn
 {% content-ref url="../bewerb-auswerten-boulder/qualifikation-boulder/screeneinstellungen.md" %}
 [screeneinstellungen.md](../bewerb-auswerten-boulder/qualifikation-boulder/screeneinstellungen.md)
 {% endcontent-ref %}
-
-
 
 Nach Ende der Finalrunde und Kontrolle der Ergebnisse, **Status der entsprechenden Bewerbsklasse auf „Offizielles Ergebnis“** stellen
 

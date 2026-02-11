@@ -70,8 +70,8 @@ Im Register „Ergebnisse“ sind im Rundenergebnis PDF die fürs Finale qualifi
 
 * Ergebniseingabe über die Schiedsrichteroberfläche
 
-{% content-ref url="../bewerb-auswerten-lead/qualifikation-lead/schiedsrichteroberflache-live-scoring-lead.md" %}
-[schiedsrichteroberflache-live-scoring-lead.md](../bewerb-auswerten-lead/qualifikation-lead/schiedsrichteroberflache-live-scoring-lead.md)
+{% content-ref url="../bewerb-auswerten-lead/schiedsrichteroberflache-live-scoring-lead.md" %}
+[schiedsrichteroberflache-live-scoring-lead.md](../bewerb-auswerten-lead/schiedsrichteroberflache-live-scoring-lead.md)
 {% endcontent-ref %}
 
 * Ergebniseingabe und -kontrolle in der Auswertungsoberfläche
