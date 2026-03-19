@@ -22,3 +22,12 @@
 3. **Startlisten erstellen:**
    1. Startpositionen vergeben (meist "zufällig"). Für spezielle Auslosungen gerne [_hier_](../vorbereitung-zur-bewerbsdurchfuhrung/startliste.md) nachlesen.
    2. Startnummern vergeben: nach Startposition
+   3. Startlisten PDF herunterladen und nach Absprache mit Jury Präsident veröffentlichen (bei Lead, Speed und Boulder im WC-Semi und WC-Final Modus) - Upload in Admin Bewerbsseite im Register Dokumente
+4. **Startnummern erstellen:**
+   1. Auswahl: Anzahl Etiketten pro Seite & Skalierung
+   2. Falls Hintergund gewünscht ist, aber nicht erscheint: Etikettenhintergrund in Logos hochladen (Admin Bewerbsseite)
+5. **Laufzettel drucken** (falls nötig) im Register Startlisten
+6. **Registrierung vorbereiten:**&#x20;
+   1. Meldelisten drucken
+   2. StNr. und falls nötig Laufzettel drucken und schneiden
+   3. mit Ansprechpartner für Registrierung alles durchgehen
