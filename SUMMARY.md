@@ -97,6 +97,6 @@
 * [Typische Probleme/Fehlermeldungen](typische-probleme-fehlermeldungen.md)
 * [Änderungshistorie](anderungshistorie.md)
 * [Operating Checklisten](operating-checklisten/README.md)
-  * [Vor Bewerb](operating-checklisten/vor-bewerb.md)
+  * [Vor Bewerb - mehrere Tage vorher](operating-checklisten/vor-bewerb.md)
   * [Während Bewerb](operating-checklisten/wahrend-bewerb.md)
   * [Nach Bewerb](operating-checklisten/nach-bewerb.md)
